@@ -89,6 +89,7 @@ We'd greatly appreciate if you could:
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | - | ✅ |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2026** - 30% off | Ends about Dec 2 | ✅ |
 | [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
+| [KittyTrace](https://kittytrace.com/?utm_source=greatfrontend-bf&utm_campaign=bf2026) | Self-hosted error tracking for the Sentry SDK, with a web console for you and a CLI for your coding agent. Runs free on Cloudflare or with Docker | **BF2026** - 34% off the one-time license ($29 → $19) | Ends Dec 1 | ✅ |
 
 ## Books for developers and software engineers
 
